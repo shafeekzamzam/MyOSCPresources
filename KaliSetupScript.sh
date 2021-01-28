@@ -15,10 +15,11 @@ sudo apt update
 sudo apt install code
 
 ============================
-Github Setup & Config
+Github Setup & Config Commands
 ============================
 git config --global user.email "shafeekzamzam@gmail.com";git config --global user.name "Shafeek"
-
+git push
+git commit
 =======================
 Edit ZSHRC for Box Automation
 =======================
