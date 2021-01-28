@@ -1,1 +1,0 @@
-PrintSpoofer.exe -i -c cmd
